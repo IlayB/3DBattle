@@ -26,5 +26,12 @@ jobs:
       with:
         node-version: ${{ matrix.node-version }}
         cache: 'npm'
-    - run: npm ci
-    - run: npm test a
+    - name: npm ci
+      run: |
+        npm run lint:js
+    - name: Lint JavaScript
+      run: |
+        npm run lint:js
+    - name: Unit tests
+      run: |
+        npm test a
