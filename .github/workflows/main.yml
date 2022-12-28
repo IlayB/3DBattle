@@ -21,12 +21,7 @@ jobs:
 
     steps:
     - uses: actions/checkout@v3
-    - name: Run unit tests
-      uses: actions/setup-node@v3
-      with:
-        node-version: ${{ matrix.node-version }}
-        cache: 'npm'
-    - name: npm ci
+    - name: NPM ci
       run: |
         npm ci
     - name: Lint JavaScript
