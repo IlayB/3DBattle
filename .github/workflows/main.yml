@@ -28,7 +28,7 @@ jobs:
         cache: 'npm'
     - name: npm ci
       run: |
-        npm run lint:js
+        npm ci
     - name: Lint JavaScript
       run: |
         npm run lint:js
