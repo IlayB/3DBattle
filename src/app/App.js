@@ -6,6 +6,7 @@ import { createTheme, ThemeProvider } from '@mui/material';
 
 const MuiTheme = createTheme({
   typography: {
+    fontFamily: 'New Rocker',
     allVariants: {
       color: 'white',
     },

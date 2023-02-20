@@ -485,7 +485,7 @@ exports[`App renders correctly 1`] = `
             class="MuiToolbar-root MuiToolbar-regular css-r6ewbb-MuiToolbar-root"
           >
             <button
-              class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium css-1ne52jz-MuiButtonBase-root-MuiButton-root"
+              class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium css-1e7k1ny-MuiButtonBase-root-MuiButton-root"
               display="row"
               tabindex="0"
               type="button"
@@ -502,7 +502,7 @@ exports[`App renders correctly 1`] = `
                 />
               </svg>
               <h5
-                class="MuiTypography-root MuiTypography-h5 css-qlz4m-MuiTypography-root"
+                class="MuiTypography-root MuiTypography-h5 css-1poeh64-MuiTypography-root"
               >
                 3D Battle
               </h5>
@@ -535,7 +535,7 @@ exports[`App renders correctly 1`] = `
               </button>
             </div>
             <button
-              class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium css-1juz4d3-MuiButtonBase-root-MuiButton-root"
+              class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium css-zcdwmw-MuiButtonBase-root-MuiButton-root"
               display="row"
               tabindex="0"
               type="button"
@@ -552,7 +552,7 @@ exports[`App renders correctly 1`] = `
                 />
               </svg>
               <h5
-                class="MuiTypography-root MuiTypography-h5 css-qlz4m-MuiTypography-root"
+                class="MuiTypography-root MuiTypography-h5 css-1poeh64-MuiTypography-root"
               >
                 3D Battle
               </h5>
@@ -564,12 +564,12 @@ exports[`App renders correctly 1`] = `
               class="MuiBox-root css-1t6c9ts"
             >
               <button
-                class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium css-2nv7f2-MuiButtonBase-root-MuiButton-root"
+                class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium css-h3pj3g-MuiButtonBase-root-MuiButton-root"
                 tabindex="0"
                 type="button"
               >
                 <p
-                  class="MuiTypography-root MuiTypography-body1 css-jb1ygz-MuiTypography-root"
+                  class="MuiTypography-root MuiTypography-body1 css-1uogvtr-MuiTypography-root"
                 >
                   Inventory
                 </p>
@@ -578,12 +578,12 @@ exports[`App renders correctly 1`] = `
                 />
               </button>
               <button
-                class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium css-2nv7f2-MuiButtonBase-root-MuiButton-root"
+                class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium css-h3pj3g-MuiButtonBase-root-MuiButton-root"
                 tabindex="0"
                 type="button"
               >
                 <p
-                  class="MuiTypography-root MuiTypography-body1 css-jb1ygz-MuiTypography-root"
+                  class="MuiTypography-root MuiTypography-body1 css-1uogvtr-MuiTypography-root"
                 >
                   Store
                 </p>
@@ -603,7 +603,7 @@ exports[`App renders correctly 1`] = `
                 type="button"
               >
                 <div
-                  class="MuiAvatar-root MuiAvatar-circular css-1wlk0hk-MuiAvatar-root"
+                  class="MuiAvatar-root MuiAvatar-circular css-16mfixf-MuiAvatar-root"
                 >
                   <img
                     alt="Remy Sharp"
@@ -623,7 +623,7 @@ exports[`App renders correctly 1`] = `
         class="MuiBox-root css-ulxmrl"
       >
         <p
-          class="MuiTypography-root MuiTypography-body1 css-jb1ygz-MuiTypography-root"
+          class="MuiTypography-root MuiTypography-body1 css-1uogvtr-MuiTypography-root"
         >
           Home
         </p>
@@ -656,12 +656,12 @@ exports[`App renders correctly 1`] = `
         tabindex="-1"
       >
         <li
-          class="MuiButtonBase-root MuiMenuItem-root MuiMenuItem-gutters MuiMenuItem-root MuiMenuItem-gutters css-pwsekp-MuiButtonBase-root-MuiMenuItem-root"
+          class="MuiButtonBase-root MuiMenuItem-root MuiMenuItem-gutters MuiMenuItem-root MuiMenuItem-gutters css-1szne68-MuiButtonBase-root-MuiMenuItem-root"
           role="menuitem"
           tabindex="0"
         >
           <p
-            class="MuiTypography-root MuiTypography-body1 css-1gql1ui-MuiTypography-root"
+            class="MuiTypography-root MuiTypography-body1 css-1r330gj-MuiTypography-root"
           >
             Profile
           </p>
