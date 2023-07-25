@@ -43,7 +43,7 @@ const App = () => {
   }, []);
 
   useEffect(() => {
-    navigator.serviceWorker.addEventListener('message', ({ data }) =>
+    navigator.serviceWorker?.addEventListener('message', ({ data }) =>
       console.log('GOT MESSAGE', data),
     );
   }, []);
