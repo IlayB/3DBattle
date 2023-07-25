@@ -5,6 +5,7 @@ export const firebaseConfig = {
   storageBucket: 'dbattle-de1da.appspot.com',
   messagingSenderId: '250496737996',
   appId: '1:250496737996:web:5468684bf23d92692a5869',
+  measurementId: 'G-1YBWVP7642',
 };
 
 export default firebaseConfig;
